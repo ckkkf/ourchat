@@ -18,6 +18,10 @@
         <spring-boot.version>2.7.6</spring-boot.version>
     </properties>
 
+    <modules>
+        <module>../ourchat-client</module>
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
